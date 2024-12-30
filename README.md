@@ -38,6 +38,5 @@ The test validates:
 Notes
 •	Ensure ChromeDriver is added to your system PATH or specify the full path in the script.
 •	The test runs in headless mode by default. You can remove the --headless argument in the script to see the browser.
-Contributions
-Feel free to raise issues or submit pull requests to enhance this project.
+
 
